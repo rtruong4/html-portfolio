@@ -1,2 +1,2 @@
 # html-portfolio
-test portfolio
+This is a test portfolio using only html
